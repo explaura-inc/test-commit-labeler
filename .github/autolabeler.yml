@@ -1,3 +1,5 @@
-feature: ["feat", "ft"]
-documentation: doc
-refactor: refactor
+feature: ["feat", "feature"]
+bug: ["fix", "bug", "bugfix"]
+maintenance: ["chore"]
+documentation: ["doc", "docs"]
+
