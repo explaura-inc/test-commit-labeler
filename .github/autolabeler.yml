@@ -1,5 +1,5 @@
-feature: ["feat", "feature"]
-bug: ["fix", "bug", "bugfix"]
-maintenance: ["chore"]
-documentation: ["doc", "docs"]
+feature: ["feat*", "feature*"]
+bug: ["fix*", "bug*", "bugfix*"]
+maintenance: ["chore*"]
+documentation: ["doc*", "docs*"]
 
